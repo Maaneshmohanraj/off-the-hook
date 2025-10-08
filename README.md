@@ -16,7 +16,7 @@ An all-in-one platform combining **AI phishing detection**, **browser integratio
 | Component | Description |
 |------------|--------------|
 | **Chrome Extension** | Scans Gmail emails in real time and displays AI-driven confidence scores. |
-| **Flask AI Server** | Hybrid **DistilBERT + engineered features** model for phishing detection. |
+| **Model with Python Server** | Hybrid **DistilBERT + engineered features** model for phishing detection. |
 | **React Game** | Gamified phishing identification trainer. |
 | **Quiz Platform** | ASU-themed structured learning with real-world email scenarios. |
 
