@@ -1,4 +1,4 @@
-# off-the-hook-mail: 
+# off-the-hook-mail:
 
 ![Demo](documentation/gif.gif)
 
