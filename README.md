@@ -137,16 +137,3 @@ Quiz runs at: [http://localhost:3000](http://localhost:3000)
 
 ▶️ [YouTube Video](https://youtu.be/1NUrwOtQyuA)
 
----
-
-## 🤝 Contribute
-
-Help improve phishing detection, UI/UX, or educational content.
-Pull requests are welcome!
-
-**Let’s make cybersecurity awareness engaging and effective.**
-
-```
-
-Would you like me to add **GitHub badges** (for Python, Node, License, etc.) at the top so it looks more professional on your repository page?
-```
